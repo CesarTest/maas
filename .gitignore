@@ -1,0 +1,11 @@
+# Filtros del sistema y editores
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+*.swp
+.idea/
+.vscode/
+
+# Filtros típicos de Grav (Caché y temporales si los hubiera en esta ruta)
+/cache/
+/assets/
